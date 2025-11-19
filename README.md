@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Adhithyan 👋
 
-<!--
-**adhithyandas/adhithyandas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full-stack Software Engineer** with **1+ years of experience** working with **MERN**, **TypeScript**, **Next.js**, **Golang**, and **DevOps** practices.  
+I focus on building scalable applications, real-time features, and cloud-native solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me
+- Full-stack engineer working across frontend, backend, and cloud environments  
+- Interested in scalable system design, real-time technologies, and automation  
+- Constantly learning and improving through hands-on projects  
+
+---
+
+## 🔧 What I Work With
+- MERN Stack  
+- TypeScript & JavaScript  
+- React & Next.js  
+- Node.js & Golang  
+- DevOps basics (CI/CD, Docker, AWS, etc.)
+
+---
+
+## 📫 Connect With Me
+**LinkedIn:** https://www.linkedin.com/in/adhithyan-das-k
