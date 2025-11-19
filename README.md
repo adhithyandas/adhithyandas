@@ -5,21 +5,5 @@ I focus on building scalable applications, real-time features, and cloud-native 
 
 ---
 
-## 🌱 About Me
-- Full-stack engineer working across frontend, backend, and cloud environments  
-- Interested in scalable system design, real-time technologies, and automation  
-- Constantly learning and improving through hands-on projects  
-
----
-
-## 🔧 What I Work With
-- MERN Stack  
-- TypeScript  
-- Next.js  
-- Golang  
-- DevOps (CI/CD, Docker, AWS, etc.)
-
----
-
 ## 📫 Connect With Me
 **LinkedIn:** https://www.linkedin.com/in/adhithyan-das-k
