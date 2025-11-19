@@ -14,10 +14,10 @@ I focus on building scalable applications, real-time features, and cloud-native 
 
 ## 🔧 What I Work With
 - MERN Stack  
-- TypeScript & JavaScript  
-- React & Next.js  
-- Node.js & Golang  
-- DevOps basics (CI/CD, Docker, AWS, etc.)
+- TypeScript  
+- Next.js  
+- Golang  
+- DevOps (CI/CD, Docker, AWS, etc.)
 
 ---
 
