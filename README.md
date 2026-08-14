@@ -4,7 +4,7 @@
 
 I build web applications across the **frontend, backend, data, and cloud layers** — from application structure and API development to testing, deployment, and production maintenance.
 
-My primary stack includes **React, Next.js, TypeScript, Node.js, Express.js, MongoDB, Redis, Socket.IO, and AWS**. I’m particularly interested in backend engineering, system design, application architecture, and building software that remains maintainable as it grows.
+My primary stack includes **React, Next.js, TypeScript, Node.js, Express.js and MongoDB**. I’m particularly interested in backend engineering, system design, application architecture, and building software that remains maintainable as it grows.
 
 ---
 
