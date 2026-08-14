@@ -44,10 +44,10 @@ I’m interested in understanding systems beyond individual features — how app
 
 ## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adhithyandas&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adhithyandas&layout=compact&hide_border=true)
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=adhithyandas&show_icons=true&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhithyandas&layout=compact&hide_border=true" height="165" />
+</p>
 ---
 
 ## Connect
