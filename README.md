@@ -14,7 +14,7 @@ I’m particularly interested in **backend engineering, system design, applicati
 
 | Area | Technologies |
 | --- | --- |
-| **Frontend** | React, Next.js, TypeScript, JavaScript, HTML, CSS |
+| **Languages & Frontend** | React, Next.js, TypeScript, JavaScript, HTML, CSS |
 | **Backend** | Node.js, Express.js, REST APIs, Socket.IO |
 | **Database & Caching** | MongoDB, Mongoose, Redis |
 | **Cloud & DevOps** | AWS, Docker, GitHub Actions, CI/CD |
